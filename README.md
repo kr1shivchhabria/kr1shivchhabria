@@ -18,8 +18,8 @@
 + $ whoami
 ```
 
-> Incoming CS student at **UC San Diego**, web developer, and builder — from Mumbai to San Diego.
-> Currently debugging something right now. Probably.
+> CS student at **UC San Diego**, web developer, all the way from Mumbai to San Diego.
+> Currently online on here right now. Probably, at least.
 
 <br/><br/>
 
@@ -57,7 +57,7 @@
 {
   "location": "San Diego, CA",
   "role": "CS Student @ UCSD",
-  "focus": ["web dev", "systems", "MUN diplomacy"],
+  "focus": ["web dev", "systems", "leadership"],
   "availability": "open to interesting problems",
   "fun_fact": "3x Certified Genius, Union Bank UGenius"
 }
