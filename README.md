@@ -18,8 +18,8 @@
 + $ whoami
 ```
 
-> CS student at **UC San Diego**, web developer, coming all the way from Mumbai to San Diego.
-> Currently online on here right now. Probably at least.
+> Incoming CS student at **UC San Diego**, web developer, and builder — from Mumbai to San Diego.
+> Currently debugging something right now. Probably.
 
 <br/><br/>
 
@@ -57,7 +57,7 @@
 {
   "location": "San Diego, CA",
   "role": "CS Student @ UCSD",
-  "focus": ["web dev", "systems", "leadership"],
+  "focus": ["web dev", "systems", "MUN diplomacy"],
   "availability": "open to interesting problems",
   "fun_fact": "3x Certified Genius, Union Bank UGenius"
 }
@@ -76,10 +76,6 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kr1shivchhabria&show_icons=true&theme=dark&bg_color=070a08&title_color=2fe878&icon_color=2fe878&text_color=c8ffb0&border_color=2fe878&hide_border=false&border_radius=14&rank_icon=github" width="46%" />&emsp;&emsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shivchhabria&theme=dark&background=070a08&border=2fe878&stroke=2fe878&ring=2fe878&fire=2fe878&currStreakLabel=2fe878&sideLabels=c8ffb0&currStreakNum=f2fbf5&sideNums=f2fbf5&dates=93a89c&border_radius=14" width="46%" />
-
-<br/><br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1shivchhabria&layout=compact&theme=dark&bg_color=070a08&title_color=2fe878&text_color=c8ffb0&border_color=2fe878&hide_border=false&border_radius=14" width="46%" />&emsp;&emsp;<img src="https://github-profile-trophy.vercel.app/?username=kr1shivchhabria&theme=dark_dimmed&no-frame=true&margin-w=8&margin-h=8&column=3&row=2" width="46%" />
 
 </div>
 
