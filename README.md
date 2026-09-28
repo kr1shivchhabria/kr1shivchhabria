@@ -1,14 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070a08,50:0f4a29,100:2fe878&height=200&section=header&text=KRISHIV%20CHHABRIA&fontSize=46&fontColor=c8ffb0&fontAlignY=38&animation=fadeIn&desc=building%20launchable%20code%20%7C%20UC%20San%20Diego&descAlignY=58&descSize=16&descColor=93a89c" />
+<img src="assets/header.svg" width="100%" alt="KRISHIV CHHABRIA, spelled out in GitHub contribution blocks" />
 
-<a href="https://kr1shivchhabria.github.io" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2FE878&center=true&vCenter=true&width=640&lines=working+on+launchable+code;working+on+scalable+startups;working+on+leading+conferences;working+on+too+much+caffeine;working+on+handling+everything+at+once" alt="Typing SVG" />
+<a href="https://github.com/kr1shivchhabria/Personal-Resume">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&letterSpacing=4px&duration=3800&pause=1800&color=C8FFB0&center=true&vCenter=true&width=760&height=46&lines=PIXEL+BY+PIXEL.+COMMIT+BY+COMMIT." alt="Pixel by pixel. Commit by commit." />
+</a>
+
+<a href="https://github.com/kr1shivchhabria/Personal-Resume">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2800&pause=900&color=2FE878&center=true&vCenter=true&width=640&height=40&lines=working+on+launchable+code;working+on+scalable+startups;working+on+leading+conferences;working+on+too+much+caffeine;working+on+handling+everything+at+once" alt="working on..." />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-070a08?style=for-the-badge&logo=vercel&logoColor=2fe878&color=0c110d)](https://kr1shivchhabria.github.io)
+[![Resume](https://img.shields.io/badge/RESUME-Personal--Resume-2fe878?style=for-the-badge&logo=readme&logoColor=070a08&labelColor=0c110d)](https://github.com/kr1shivchhabria/Personal-Resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-070a08?style=for-the-badge&logo=linkedin&logoColor=2fe878&color=0c110d)](https://www.linkedin.com/in/krishiv-chhabria-502628322/)
 [![Email](https://img.shields.io/badge/Email-070a08?style=for-the-badge&logo=gmail&logoColor=2fe878&color=0c110d)](mailto:krchhabria@ucsd.edu)
 [![Visitors](https://komarev.com/ghpvc/?username=kr1shivchhabria&style=for-the-badge&color=2fe878&label=PROFILE+VIEWS&labelColor=070a08)](https://github.com/kr1shivchhabria)
@@ -95,25 +99,23 @@
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/kr1shivchhabria/kr1shivchhabria/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>⚙️ powered by a scheduled GitHub Action — see <code>.github/workflows/snake.yml</code> below</sub>
-
 </div>
 
 <br/>
 
-```diff
-+ $ cat contact.txt
-```
-
 <div align="center">
 
-**Let's talk.** Software engineer in training — probably debugging something right now.
+<img src="assets/contact.svg" width="100%" alt="Contact: krchhabria@ucsd.edu, +1 (858) 241-6438, LinkedIn in/krishiv-chhabria-502628322, resume at github.com/kr1shivchhabria/Personal-Resume" />
 
-[![Gmail](https://img.shields.io/badge/krchhabria@ucsd.edu-070a08?style=for-the-badge&logo=gmail&logoColor=2fe878&color=0c110d)](mailto:krchhabria@ucsd.edu)
-[![LinkedIn](https://img.shields.io/badge/Krishiv_Chhabria-070a08?style=for-the-badge&logo=linkedin&logoColor=2fe878&color=0c110d)](https://www.linkedin.com/in/krishiv-chhabria-502628322/)
+<br/>
 
-<sub>© 2026 Krishiv Chhabria. Built from ground zero, one &lt;div&gt; at a time.</sub>
+<a href="https://github.com/kr1shivchhabria/Personal-Resume"><img src="https://img.shields.io/badge/OPEN_MY_RESUME-Personal--Resume-2fe878?style=for-the-badge&logo=readme&logoColor=070a08&labelColor=0c110d" alt="Open my resume" /></a>
+<a href="mailto:krchhabria@ucsd.edu"><img src="https://img.shields.io/badge/krchhabria%40ucsd.edu-070a08?style=for-the-badge&logo=gmail&logoColor=2fe878&color=0c110d" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/krishiv-chhabria-502628322/"><img src="https://img.shields.io/badge/LinkedIn-Krishiv_Chhabria-070a08?style=for-the-badge&logo=linkedin&logoColor=2fe878&color=0c110d" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/PHONE-%2B1_(858)_241--6438-070a08?style=for-the-badge&logo=googlemessages&logoColor=2fe878&color=0c110d&labelColor=0c110d" alt="Phone +1 (858) 241-6438" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2fe878,50:0f4a29,100:070a08&height=100&section=footer" />
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="© 2026 Krishiv Chhabria. Built from ground zero, one div at a time." />
 
 </div>
